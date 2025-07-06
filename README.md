@@ -1,7 +1,7 @@
-# ZephyraTech Solutions - Full Stack Developer Internship Task
+# ZephyraTech Solutions - Full Stack Developer Unpaid Internship Task
 
 ## Task Overview
-This project is a login page implementation as part of the Full Stack Developer Internship evaluation at ZephyraTech Solutions.
+This project is a login page implementation as part of the Unpaid Full Stack Developer Internship evaluation at ZephyraTech Solutions.
 
 ## Requirements Completed
 - ✅ Developed login page using Next.js
@@ -13,7 +13,7 @@ This project is a login page implementation as part of the Full Stack Developer 
 
 ## API Integration
 - **Endpoint**: POST https://dummyjson.com/auth/login
-- **Test Credentials**: 
+- **Test Credentials**:
   - Username: emilys
   - Password: emilyspass
 - **Interceptor**: Custom API client with request/response intercepting
@@ -42,8 +42,8 @@ src/
 
 ## How to Run
 \`\`\`bash
-npm install
-npm run dev
+pnpm install
+pnpm run dev
 \`\`\`
 
 ## Demo Features
