@@ -13,7 +13,7 @@ This project is a login page implementation as part of the Unpaid Full Stack Dev
 
 ## API Integration
 - **Endpoint**: POST https://dummyjson.com/auth/login
-- **Test Credentials**: 
+- **Test Credentials**:
   - Username: emilys
   - Password: emilyspass
 - **Interceptor**: Custom API client with request/response intercepting
