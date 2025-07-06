@@ -1,7 +1,7 @@
-# ZephyraTech Solutions - Full Stack Developer Internship Task
+# ZephyraTech Solutions - Full Stack Developer Unpaid Internship Task
 
 ## Task Overview
-This project is a login page implementation as part of the Full Stack Developer Internship evaluation at ZephyraTech Solutions.
+This project is a login page implementation as part of the Unpaid Full Stack Developer Internship evaluation at ZephyraTech Solutions.
 
 ## Requirements Completed
 - ✅ Developed login page using Next.js
@@ -25,13 +25,10 @@ src/
 │   ├── globals.css
 │   ├── layout.tsx
 │   ├── page.tsx
-│   └── page-bug.tsx (for bug-fix branch)
 ├── components/
 │   ├── LoginPage.tsx
-│   └── LoginPage-bug.tsx (for bug-fix branch)
 └── lib/
     ├── api.ts
-    └── api-bug.ts (for bug-fix branch)
 \`\`\`
 
 ## Development Process
@@ -42,8 +39,8 @@ src/
 
 ## How to Run
 \`\`\`bash
-npm install
-npm run dev
+pnpm install
+pnpm run dev
 \`\`\`
 
 ## Demo Features
@@ -56,4 +53,3 @@ npm run dev
 ## Submission
 - GitHub Repository: [Your repo URL here]
 - Demo Video: [Your video URL here]
-- Deadline: Today before 9:00 PM
