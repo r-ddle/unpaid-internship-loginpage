@@ -18,23 +18,10 @@ This project is a login page implementation as part of the Unpaid Full Stack Dev
   - Password: emilyspass
 - **Interceptor**: Custom API client with request/response intercepting
 
-## Project Structure
-\`\`\`
-src/
-├── app/
-│   ├── globals.css
-│   ├── layout.tsx
-│   ├── page.tsx
-├── components/
-│   ├── LoginPage.tsx
-└── lib/
-    ├── api.ts
-\`\`\`
-
 ## Development Process
 1. **Main Branch**: Clean, working implementation
 2. **Feature Branch**: New features and enhancements
-3. **Bug-fix Branch**: Fix intentional bugs in *-bug.tsx files
+3. **Bug-fix Branch**: Fix bugs
 4. **Release Branch**: Final release preparation
 
 ## How to Run
@@ -52,4 +39,3 @@ pnpm run dev
 
 ## Submission
 - GitHub Repository: [Your repo URL here]
-- Demo Video: [Your video URL here]
